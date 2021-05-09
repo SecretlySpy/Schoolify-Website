@@ -18,7 +18,7 @@
  <a link href = " ">Log In</a>
  <a link href = " ">Sign Up</a>
  
- <div/>
+ </div>
 
 </body>
 </html>
